@@ -50,4 +50,25 @@ A time series plot was used to explore the concentration levels of exach polluta
 
 ## CONCLUSION
 
-The analysis of Air quality index (AQI) is crucial in environmental data science that involves monitoring and analyzing air quality in a specific location. The aim is to provide a numerical value that represent the overall air quality. This is essential for public health and environmental management
+The analysis of Air quality index (AQI) is crucial in environmental data science that involves monitoring and analyzing air quality in a specific location. The aim is to provide a numerical value that represent the overall air quality. This is essential for achieving the United Nations Sustainable Development Goals.
+
+The Air Quality Index (AQI) is closely related to several of the United Nations Sustainable Development Goals (SDGs), particularly those focused on health, clean energy, and sustainable cities. Here's a breakdown of the connections:
+
+**SDG 3: Good Health and Well-being:**
+
+* **Direct impact:** Poor air quality is a major risk factor for respiratory and cardiovascular diseases, leading to millions of premature deaths globally each year. The AQI provides a clear and accessible measure of air pollution levels, allowing individuals and policymakers to take steps to protect health.
+
+**SDG 7: Affordable and Clean Energy:**
+
+* **Source of pollution:** Many sources of air pollution are linked to energy production and use, such as coal-fired power plants, vehicle emissions, and household cooking with polluting fuels. Transitioning to cleaner energy sources like renewables and promoting energy efficiency can significantly improve air quality.
+
+**SDG 11: Sustainable Cities and Communities:**
+
+* **Urban air pollution:** Cities are often hotspots for air pollution due to concentrated traffic, industrial activity, and energy use. The AQI is crucial for monitoring air quality in cities and implementing effective policies to reduce pollution and create healthier urban environments.
+
+**Other relevant SDGs:**
+
+* **SDG 13: Climate Action:** Air pollution is closely linked to climate change, as many of the same pollutants contribute to both issues. Improving air quality can also help mitigate climate change and its associated impacts.
+* **SDG 15: Life on Land:** Air pollution can harm ecosystems and biodiversity, affecting plants, animals, and microorganisms. Protecting air quality is essential for maintaining healthy ecosystems.
+
+The AQI plays a vital role in tracking progress towards these SDGs by providing a quantifiable measure of air quality and highlighting the need for action. By monitoring and improving air quality, we can create a healthier and more sustainable future for all.
